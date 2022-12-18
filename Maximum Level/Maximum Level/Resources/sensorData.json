@@ -1,0 +1,22 @@
+[
+    {
+        "id": "362ertgebd3gd783",
+        "waterDetected": false,
+        "city": "Split mocked",
+        "areaName": "Spinut mocked",
+        "coordinates": {
+            "longitude": 16.4228088,
+            "latitude": 43.5143802
+        }
+    },
+    {
+        "id": "uyedf36t636363",
+        "waterDetected": false,
+        "city": "Zagreb",
+        "areaName": "Centar",
+        "coordinates": {
+            "longitude": 16.0118112,
+            "latitude": 45.8222483
+        }
+    }
+]
